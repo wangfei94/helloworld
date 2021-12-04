@@ -26,7 +26,4 @@ int main()
     cout << ans << endl;
     return 0;
 }
-77849871
-aaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaa
-aa
+shan
